@@ -7,10 +7,12 @@
     "start": "parcel index.html --open"
   },
   "dependencies": {
+    "images": "^3.2.3",
     "parcel": "1.12.4"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.6.1"
+    "parcel-bundler": "^1.6.1",
+    "sass": "^1.35.2"
   },
   "keywords": []
 }
